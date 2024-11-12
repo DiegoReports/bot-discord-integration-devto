@@ -6,7 +6,10 @@ Este projeto é um bot de integração para o Discord que busca e compartilha au
 
 - **Integração com Dev.to**: Pega os artigos mais recentes da plataforma Dev.to.
 - **Postagem Automática**: Compartilha os conteúdos diretamente em um canal do Discord.
-- **Integração com Maestro Orchestador (BotCity)**: Permite personalizar quais artigos serão postados com base em tags específicas.
+- **Integração com Maestro Orchestador (BotCity)**: Funcionalidades:
+  - Agendamento de tarefas
+  - Acompanhamento de logs de processamento
+  - Alerta de erros.
 
 ## Requisitos
 
